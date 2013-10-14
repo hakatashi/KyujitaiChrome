@@ -1,4 +1,4 @@
-// patterns.js for KyujitaiChrome | (c) 2013 Hakatashi | licensed under CC0 1.0 Universal http://creativecommons.org/publicdomain/zero/1.0/
+// patterns.js for KyujitaiChrome | (c) 2013 Hakatashi | Licensed under CC0 1.0 Universal http://creativecommons.org/publicdomain/zero/1.0/
 
 singlePattern = [
    ["\u4E9C", "\u4E9E"],
